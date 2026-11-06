@@ -41,9 +41,33 @@ Me gusta desarrollar herramientas de software que resuelvan necesidades concreta
 
 ## 🛠️ Tecnologías
 
+<p><strong>Frontend</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" alt="Python, Git y GitHub" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS y Bootstrap" />
 </p>
+
+<p><strong>Backend y APIs</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,django,flask,graphql&theme=dark" alt="Python, Node.js, Express, FastAPI, Django, Flask y GraphQL" />
+</p>
+
+<p><strong>Datos y almacenamiento</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,firebase,supabase&theme=dark" alt="PostgreSQL, MySQL, SQLite, MongoDB, Redis, Firebase y Supabase" />
+</p>
+
+<p><strong>IA, machine learning y datos</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="PyTorch, TensorFlow, scikit-learn y OpenCV" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python para ciencia de datos e IA" />
+</p>
+
+<p><strong>Cloud, DevOps y herramientas</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,git,github,linux,bash,postman,vscode&theme=dark" alt="AWS, Google Cloud, Azure, Docker, Kubernetes, GitHub Actions, Git, GitHub, Linux, Bash, Postman y VS Code" />
+</p>
+
+<p><sub>Iconos de tecnologías del ecosistema full stack e IA; la selección representa áreas de interés y herramientas, no necesariamente experiencia profesional en cada una.</sub></p>
 
 ## 📊 Actividad y estadísticas
 
